@@ -7,9 +7,8 @@ How to use this:
 
 2. Run "main.py" and fill out what is asked - enjoy :)
 ------------
-Datafeed for cryptocurrencies: Binance
 Files:
-
+------------
 "binanceDataGathering.py": Gathers data from the API of Binance
 
 "pairsTrading.py": There is the function written which checks 2 cryptocurrencies for co-integration and so for pairs which can be traded for a statistical arbitrage
