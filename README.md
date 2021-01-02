@@ -9,8 +9,8 @@ How to use this:
 ------------
 Files:
 ------------
-"binanceDataGathering.py": Gathers data from the API of Binance
+"main.py": File to be run to interact with the user and get the cryptocurrency names and the interval in which is should be tested
 
 "pairsTrading.py": There is the function written which checks 2 cryptocurrencies for co-integration and so for pairs which can be traded for a statistical arbitrage
 
-"main.py": File to be run to interact with the user and get the cryptocurrency names and the interval in which is should be tested
+"binanceDataGathering.py": Gathers data from the API of Binance
